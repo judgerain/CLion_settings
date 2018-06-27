@@ -2,12 +2,12 @@
   <component name="libraryTable">
     <library name="Python 3.6 (c_cpp) interpreter library">
       <CLASSES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/.CLion2018.1/system/python_stubs/-2038345275" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.virtualenvs/c_cpp/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/.virtualenvs/c_cpp/lib/python3.6/site-packages/setuptools-39.0.1-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/.virtualenvs/c_cpp/lib/python3.6/site-packages/pip-9.0.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/.CLion2018.1/system/python_stubs/1174222847" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.5" />
@@ -19,82 +19,12 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/.CLion2018.1/system/python_stubs/-2038345275" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (c_learn) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/CLionProjects/c_learn/venv/lib/python3.6" />
-        <root url="file://$USER_HOME$/CLionProjects/c_learn/venv/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/CLionProjects/c_learn/venv/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.CLion2017.3/system/python_stubs/390976294" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/CLionProjects/c_learn/venv/lib/python3.6" />
-        <root url="file://$USER_HOME$/CLionProjects/c_learn/venv/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/CLionProjects/c_learn/venv/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.CLion2017.3/system/python_stubs/390976294" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (cpython) interpreter library">
-      <CLASSES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/CLionProjects/cpython/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/CLionProjects/cpython/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/CLionProjects/cpython/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/.CLion2018.1/system/python_stubs/-1906162499" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/CLionProjects/cpython/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/CLionProjects/cpython/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/CLionProjects/cpython/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/.CLion2018.1/system/python_stubs/-1906162499" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.virtualenvs/c_cpp/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/.virtualenvs/c_cpp/lib/python3.6/site-packages/setuptools-39.0.1-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/.virtualenvs/c_cpp/lib/python3.6/site-packages/pip-9.0.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/.CLion2018.1/system/python_stubs/1174222847" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.5" />

@@ -13,6 +13,7 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*.c*</mask>
     <mask>*.c</mask>
   </component>
 </application>

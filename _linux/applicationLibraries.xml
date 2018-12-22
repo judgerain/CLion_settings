@@ -288,5 +288,35 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.6 (c_cpp) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-2038345275" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/CLionProjects/c_cpp/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-2038345275" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
   </component>
 </application>

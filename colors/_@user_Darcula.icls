@@ -3,13 +3,20 @@
     <property name="created">2018-06-26T21:31:13</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2018.1.5.0.0</property>
-    <property name="modified">2019-04-18T21:23:54</property>
+    <property name="modified">2019-04-18T23:05:12</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="1e8114" />
+      </value>
+    </option>
+    <option name="OC.LABEL">
+      <value>
+        <option name="FOREGROUND" value="b556d1" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="OC.NAMESPACE_LIKE">
@@ -30,7 +37,7 @@
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="c358d1" />
+        <option name="FOREGROUND" value="d19f16" />
       </value>
     </option>
   </attributes>

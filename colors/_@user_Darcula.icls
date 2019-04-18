@@ -3,7 +3,7 @@
     <property name="created">2018-06-26T21:31:13</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2018.1.5.0.0</property>
-    <property name="modified">2019-04-17T11:00:02</property>
+    <property name="modified">2019-04-18T21:23:54</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -12,15 +12,25 @@
         <option name="FOREGROUND" value="1e8114" />
       </value>
     </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="579ee3" />
+      </value>
+    </option>
     <option name="OC.SELFSUPERTHIS">
       <value>
-        <option name="FOREGROUND" value="50a9a6" />
+        <option name="FOREGROUND" value="54b5b2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="OC.STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="d1a8e3" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="c358d1" />
       </value>
     </option>
   </attributes>

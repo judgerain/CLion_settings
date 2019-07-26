@@ -21,6 +21,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="1" />
     <option name="IF_BRACE_FORCE" value="1" />

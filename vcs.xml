@@ -15,8 +15,8 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://judgerain@bitbucket.org/judgerain/gpx_analizer.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="judgerain" />
         </UrlAndUserName>
       </list>
     </option>

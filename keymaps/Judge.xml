@@ -30,6 +30,9 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>

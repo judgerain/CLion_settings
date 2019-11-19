@@ -32,6 +32,7 @@
   <codeStyleSettings language="ObjectiveC">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="1" />
     <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />

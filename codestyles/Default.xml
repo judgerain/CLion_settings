@@ -34,8 +34,6 @@
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="1" />
-    <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
-    <option name="FOR_STATEMENT_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="ASSIGNMENT_WRAP" value="1" />

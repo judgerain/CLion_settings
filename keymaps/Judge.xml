@@ -43,5 +43,13 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift alt back_slash" />
   </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="ViewInplaceComments" />
 </keymap>

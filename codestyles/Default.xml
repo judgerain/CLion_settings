@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="100" />
   <Objective-C>
     <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
     <option name="INDENT_CLASS_MEMBERS" value="2" />

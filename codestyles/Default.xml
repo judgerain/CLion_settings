@@ -8,6 +8,7 @@
     <option name="INDENT_PREPROCESSOR_DIRECTIVE" value="2" />
   </Objective-C>
   <codeStyleSettings language="ObjectiveC">
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />

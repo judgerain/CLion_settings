@@ -19,6 +19,24 @@
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="EditorDeleteToWordEndInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt delete" />
+  </action>
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt period" />
@@ -26,6 +44,8 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
   <action id="NextEditorTab" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift alt right" />
@@ -43,6 +63,8 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift alt back_slash" />
   </action>
+  <action id="Terminal.MoveToolWindowTabLeft" />
+  <action id="Terminal.MoveToolWindowTabRight" />
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />

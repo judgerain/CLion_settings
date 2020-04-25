@@ -3,7 +3,7 @@
     <property name="created">2018-06-26T21:31:13</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2018.1.5.0.0</property>
-    <property name="modified">2019-04-18T23:05:12</property>
+    <property name="modified">2020-04-25T10:53:23</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -26,8 +26,13 @@
     </option>
     <option name="OC.SELFSUPERTHIS">
       <value>
-        <option name="FOREGROUND" value="54b5b2" />
+        <option name="FOREGROUND" value="e34aa1" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="54b5b2" />
       </value>
     </option>
     <option name="OC.STRUCT_LIKE">
@@ -38,6 +43,11 @@
     <option name="OC.TYPEDEF">
       <value>
         <option name="FOREGROUND" value="d19f16" />
+      </value>
+    </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="5371c6" />
       </value>
     </option>
   </attributes>

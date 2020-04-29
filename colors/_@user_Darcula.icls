@@ -3,9 +3,12 @@
     <property name="created">2018-06-26T21:31:13</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2018.1.5.0.0</property>
-    <property name="modified">2020-04-25T10:53:23</property>
+    <property name="modified">2020-04-29T23:11:07</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <colors>
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="3c3f41" />
+  </colors>
   <attributes>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -48,6 +51,13 @@
     <option name="PY.ANNOTATION">
       <value>
         <option name="FOREGROUND" value="5371c6" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3c3f41" />
+        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>

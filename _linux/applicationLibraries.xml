@@ -584,6 +584,62 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.7 (gpx_analizer-LDA7M0p7) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/CLion2020.1/python_stubs/1114772443" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/CLion2020.1/python_stubs/1114772443" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (gpx_analizer-LDA7M0p7) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/CLion2020.1/python_stubs/1114772443" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/gpx_analizer-LDA7M0p7/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/CLion2020.1/python_stubs/1114772443" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.8 (c_cpp) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8" />
